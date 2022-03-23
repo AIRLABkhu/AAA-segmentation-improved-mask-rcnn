@@ -10,7 +10,7 @@ Combined use of complete intersection over union (CIoU) and smooth L1 loss is de
 
 ## Result 
 
-Overview of workflow for thrombus detection and segmentation using Mask R-CNN framework
+-Overview of workflow for thrombus detection and segmentation using Mask R-CNN framework
 
 
 ![maskrcnn_re](https://user-images.githubusercontent.com/96813784/159687150-0388e330-b3d7-429f-af74-daeed6d18a34.png)
@@ -18,8 +18,7 @@ Overview of workflow for thrombus detection and segmentation using Mask R-CNN fr
 
 
 * * *
-3D volume rendering results of the segmentation after using the detection algorithm. 
-The overlapping part of ground truth and prediction mask from the model is represented in blue, False positive in blue, and False negative in red. Yellow box is represent the magnification region.
+-3D volume rendering results of the segmentation after using the detection algorithm. The overlapping part of ground truth and prediction mask from the model is represented in blue, False positive in blue, and False negative in red. Yellow box is represent the magnification region.
 
 
 ![화면 캡처 2022-03-23 200954](https://user-images.githubusercontent.com/96813784/159686837-f4c88d09-ff91-4545-97db-73c23d243d67.png)
