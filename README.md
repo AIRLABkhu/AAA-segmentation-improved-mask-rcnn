@@ -17,7 +17,7 @@ Overview of workflow for thrombus detection and segmentation using Mask R-CNN fr
 
 
 
-
+* * *
 3D volume rendering results of the segmentation after using the detection algorithm. 
 The overlapping part of ground truth and prediction mask from the model is represented in blue, False positive in blue, and False negative in red. Yellow box is represent the magnification region.
 
