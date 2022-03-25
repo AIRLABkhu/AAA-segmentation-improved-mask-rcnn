@@ -1,4 +1,4 @@
-# Tittle
+# Title
 Automatic Detection and Segmentation of Thrombus in Abdominal Aortic Aneurysm Using Mask Region-based Convolutional Neural Network with Optimized Loss Functions
 
 ## Abstract
